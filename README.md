@@ -5,7 +5,7 @@ Controls -
 
     Move the mouse to move the light
     
-    '9' & '0' keys to change the lights strength (- & +)
+    '9' & '0' keys to change the light's strength (- & +)
 
     '1' & '2' keys to change the Graphics Scale (- & +), in quarter scale per press. Looks best when it is a clean common factor of Resolution
     
