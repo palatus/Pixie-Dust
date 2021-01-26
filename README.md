@@ -11,6 +11,10 @@ Controls -
     
     'Up Arrow' & 'Down Arrow' to change the lightmap resolution value. Looks best as a clean multiple of Graphics Scale.  
     
+   
+Version -
+
+    The project was created in my freetime during University, and was left unifinished and unorganized, as it was a learning experience.
     
     
 Settings -
